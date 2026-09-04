@@ -1,21 +1,23 @@
 about:
-  description: Read-only mirror of https://gitlab.gnome.org/GNOME/at-spi2-core
+  description:
+  |
+    Read-only mirror of https://gitlab.gnome.org/GNOME/at-spi2-core
   license: LGPL-2.1
   homepage: https://gitlab.gnome.org/GNOME/at-spi2-core
   head: 1ef5342
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T04:43:52Z
+  collectedAt: 2026-09-04T19:46:11Z
 timeline:
   created: 2012-06-09
   lastCommit: 2026-08-29
-  lastRelease: ?
+  lastRelease: 
 popularity:
   star: 31
   watcher: 2
   fork: 16
   release: 0
-  contributor: 289
+  contributor: 288
   pullRequest: 3
   issue: 0
 language:
@@ -24,7 +26,7 @@ language:
   Python: 22885
   Makefile: 11675
   Shell: 7632
-totalLine: 2443451
+totalBytes: 2443451
 recent:
   last30d:
     since: 2026-08-05
@@ -34,6 +36,14 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 6
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 15
   last90d:
     since: 2026-06-06
     release: 0
@@ -58,3 +68,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 127
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 307
+total:
+  release: 0
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 0
+  openIssue: 0
+  commit: 6349
+---
+---
+
