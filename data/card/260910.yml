@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T03:03:26Z
+  collectedAt: 2026-09-10T16:07:02Z
 timeline:
   created: 2012-06-09
   lastCommit: 2026-09-09
@@ -87,7 +87,7 @@ total:
   commit: 6350
 ---
 path: /home/runner/.x-repo/github.com/GNOME/at-spi2-core
-collectedAt: 2026-09-10T03:03:29Z
+collectedAt: 2026-09-10T16:07:09Z
 loc:
   C:
     code: 40460
