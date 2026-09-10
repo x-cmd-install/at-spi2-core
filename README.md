@@ -12,6 +12,18 @@ Read-only mirror of https://gitlab.gnome.org/GNOME/at-spi2-core
 x install at-spi2-core
 ```
 
+## Code insight
+
+Total: **51,538** lines of code across **323** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 40,460 | 11,990 | 7,663 | 143 |
+| CHeader | 5,329 | 5,575 | 1,686 | 113 |
+| Xml | 1,507 | 2,989 | 277 | 34 |
+| ReStructuredText | 1,116 | 0 | 359 | 13 |
+| Meson | 1,077 | 35 | 153 | 20 |
+
 ## Source
 
 - **Upstream**: <https://github.com/GNOME/at-spi2-core>
@@ -31,20 +43,30 @@ x install at-spi2-core
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 15 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 21 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 55 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 124 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 0 | 307 |
 
-## Code size
+## Distribution status
 
-Total: **51,538** lines of code across **323** files in the top 5 languages.
+Reported by **302** distros on [repology.org](https://repology.org/project/at-spi2-core). **70** are ✅ on the latest upstream release, **183** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| C | 40,460 | 11,990 | 7,663 | 143 |
-| CHeader | 5,329 | 5,575 | 1,686 | 113 |
-| Xml | 1,507 | 2,989 | 277 | 34 |
-| ReStructuredText | 1,116 | 0 | 359 | 13 |
-| Meson | 1,077 | 35 | 153 | 20 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.56.2` | 🪦 legacy |
+| Debian 14 | `2.56.2` | 🪦 legacy |
+| Debian 13 | `2.56.2` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.60.0` | 🪦 legacy |
+| Ubuntu 24.04 LTS | `2.52.0` | ⚠️ outdated |
+| Arch | `2.60.6` | ✅ latest |
+| Homebrew | `2.60.6` | ✅ latest |
+| Fedora rawhide | `2.61.1` | ⚠️ outdated |
+| Nix unstable | `2.60.6` | ✅ latest |
+| Void | `2.56.5` | ⚠️ outdated |
+| Alpine edge | `2.60.6` | ✅ latest |
+| openSUSE Tumbleweed | `2.60.6` | ✅ latest |
 
 ## Improve this data
 
@@ -55,4 +77,4 @@ Install metadata for at-spi2-core lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:07:19Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:12:39Z._
