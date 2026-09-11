@@ -51,18 +51,18 @@ Total: **51,538** lines of code across **323** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **301** distros on [repology.org](https://repology.org/project/at-spi2-core). **70** are ✅ on the latest upstream release, **182** are ⚠️ on an older version.
+Reported by **301** distros on [repology.org](https://repology.org/project/at-spi2-core). **70** are ✅ on the latest upstream release, **181** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `2.56.2` | 🪦 legacy |
 | Debian 14 | `2.56.2` | 🪦 legacy |
 | Debian 13 | `2.56.2` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.60.0` | 🪦 legacy |
+| Ubuntu 26.04 LTS | `2.60.4` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.52.0` | ⚠️ outdated |
 | Arch | `2.60.6` | ✅ latest |
 | Homebrew | `2.60.6` | ✅ latest |
-| Fedora rawhide | `2.61.1` | ⚠️ outdated |
+| Fedora rawhide | `2.61.90` | devel |
 | Nix unstable | `2.60.6` | ✅ latest |
 | Void | `2.56.5` | ⚠️ outdated |
 | Alpine edge | `2.60.6` | ✅ latest |
@@ -77,4 +77,4 @@ Install metadata for at-spi2-core lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T02:58:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:44:57Z._

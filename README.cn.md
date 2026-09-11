@@ -51,18 +51,18 @@ x install at-spi2-core
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/at-spi2-core) 上共有 **301** 个发行版报告此项目。**70** 个 ✅ 已是最新上游版本，**182** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/at-spi2-core) 上共有 **301** 个发行版报告此项目。**70** 个 ✅ 已是最新上游版本，**181** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Debian unstable | `2.56.2` | 🪦 legacy |
 | Debian 14 | `2.56.2` | 🪦 legacy |
 | Debian 13 | `2.56.2` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.60.0` | 🪦 legacy |
+| Ubuntu 26.04 LTS | `2.60.4` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.52.0` | ⚠️ outdated |
 | Arch | `2.60.6` | ✅ latest |
 | Homebrew | `2.60.6` | ✅ latest |
-| Fedora rawhide | `2.61.1` | ⚠️ outdated |
+| Fedora rawhide | `2.61.90` | devel |
 | Nix unstable | `2.60.6` | ✅ latest |
 | Void | `2.56.5` | ⚠️ outdated |
 | Alpine edge | `2.60.6` | ✅ latest |
@@ -77,4 +77,4 @@ at-spi2-core 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T02:58:50Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T20:44:58Z._
