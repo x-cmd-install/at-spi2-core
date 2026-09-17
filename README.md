@@ -14,15 +14,15 @@ x install at-spi2-core
 
 ## Code insight
 
-Total: **51,538** lines of code across **323** files in the top 5 languages.
+Total: **51,822** lines of code across **324** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 40,460 | 11,990 | 7,663 | 143 |
+| C | 40,734 | 12,000 | 7,709 | 144 |
 | CHeader | 5,329 | 5,575 | 1,686 | 113 |
 | Xml | 1,507 | 2,989 | 277 | 34 |
 | ReStructuredText | 1,116 | 0 | 359 | 13 |
-| Meson | 1,077 | 35 | 153 | 20 |
+| Meson | 1,087 | 35 | 155 | 20 |
 
 ## Source
 
@@ -32,22 +32,22 @@ Total: **51,538** lines of code across **323** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31 · **Forks**: 16 · **Open issues**: 0 · **Contributors**: 289
+- **Stars**: 31 · **Forks**: 16 · **Open issues**: 0 · **Contributors**: 290
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6350
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6353
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 13 |
-| 90d | 2026-06-18 | 0 | 0 | 0 | 0 | 0 | 21 |
-| last180d | 2026-03-20 | 0 | 0 | 0 | 0 | 0 | 53 |
-| 360d | 2025-09-21 | 0 | 0 | 0 | 0 | 0 | 120 |
-| last720d | 2024-09-26 | 0 | 0 | 0 | 0 | 0 | 307 |
+| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 16 |
+| 90d | 2026-06-19 | 0 | 0 | 0 | 0 | 0 | 24 |
+| last180d | 2026-03-21 | 0 | 0 | 0 | 0 | 0 | 56 |
+| 360d | 2025-09-22 | 0 | 0 | 0 | 0 | 0 | 123 |
+| last720d | 2024-09-27 | 0 | 0 | 0 | 0 | 0 | 310 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for at-spi2-core lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T03:18:53Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T03:24:54Z._
