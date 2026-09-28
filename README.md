@@ -36,18 +36,18 @@ Total: **51,840** lines of code across **324** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6355
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6356
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-29 | 0 | 0 | 0 | 0 | 0 | 14 |
-| 90d | 2026-06-29 | 0 | 0 | 0 | 0 | 0 | 22 |
-| last180d | 2026-03-31 | 0 | 0 | 0 | 0 | 0 | 54 |
-| 360d | 2025-10-02 | 0 | 0 | 0 | 0 | 0 | 121 |
-| last720d | 2024-10-07 | 0 | 0 | 0 | 0 | 0 | 309 |
+| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 6 |
+| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 15 |
+| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 0 | 23 |
+| last180d | 2026-04-01 | 0 | 0 | 0 | 0 | 0 | 55 |
+| 360d | 2025-10-03 | 0 | 0 | 0 | 0 | 0 | 122 |
+| last720d | 2024-10-08 | 0 | 0 | 0 | 0 | 0 | 310 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for at-spi2-core lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T03:38:18Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T03:36:42Z._
