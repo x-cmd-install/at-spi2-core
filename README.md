@@ -14,11 +14,11 @@ x install at-spi2-core
 
 ## Code insight
 
-Total: **51,840** lines of code across **324** files in the top 5 languages.
+Total: **51,860** lines of code across **324** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 40,752 | 12,002 | 7,712 | 144 |
+| C | 40,772 | 12,013 | 7,717 | 144 |
 | CHeader | 5,329 | 5,575 | 1,686 | 113 |
 | Xml | 1,507 | 2,989 | 277 | 34 |
 | ReStructuredText | 1,116 | 0 | 359 | 13 |
@@ -32,22 +32,22 @@ Total: **51,840** lines of code across **324** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31 · **Forks**: 16 · **Open issues**: 0 · **Contributors**: 290
+- **Stars**: 31 · **Forks**: 16 · **Open issues**: 0 · **Contributors**: 291
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6356
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6357
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 6 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 15 |
-| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 0 | 23 |
-| last180d | 2026-04-01 | 0 | 0 | 0 | 0 | 0 | 55 |
-| 360d | 2025-10-03 | 0 | 0 | 0 | 0 | 0 | 122 |
-| last720d | 2024-10-08 | 0 | 0 | 0 | 0 | 0 | 310 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 16 |
+| 90d | 2026-07-01 | 0 | 0 | 0 | 0 | 0 | 24 |
+| last180d | 2026-04-02 | 0 | 0 | 0 | 0 | 0 | 56 |
+| 360d | 2025-10-04 | 0 | 0 | 0 | 0 | 0 | 123 |
+| last720d | 2024-10-09 | 0 | 0 | 0 | 0 | 0 | 311 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for at-spi2-core lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T03:36:42Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T04:11:57Z._
