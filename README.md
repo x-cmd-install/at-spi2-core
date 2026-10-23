@@ -42,12 +42,31 @@ Total: **51,860** lines of code across **324** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 12 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 22 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 47 |
-| 360d | 2025-10-27 | 0 | 0 | 0 | 0 | 0 | 114 |
-| last720d | 2024-11-01 | 0 | 0 | 0 | 0 | 0 | 310 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 12 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 22 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 47 |
+| 360d | 2025-10-28 | 0 | 0 | 0 | 0 | 0 | 114 |
+| last720d | 2024-11-02 | 0 | 0 | 0 | 0 | 0 | 310 |
+
+## Distribution status
+
+Reported by **296** distros on [repology.org](https://repology.org/project/at-spi2-core). **63** are ✅ on the latest upstream release, **202** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.56.2` | 🪦 legacy |
+| Debian 14 | `2.56.2` | 🪦 legacy |
+| Debian 13 | `2.56.2` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.60.0` | 🪦 legacy |
+| Ubuntu 24.04 LTS | `2.52.0` | ⚠️ outdated |
+| Arch | `2.62.1` | ✅ latest |
+| Homebrew | `2.62.1` | ✅ latest |
+| Fedora rawhide | `2.62.1` | ✅ latest |
+| Nix unstable | `2.60.6` | ⚠️ outdated |
+| Void | `2.56.5` | ⚠️ outdated |
+| Alpine edge | `2.62.1` | ✅ latest |
+| openSUSE Tumbleweed | `2.60.7` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -58,4 +77,4 @@ Install metadata for at-spi2-core lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T03:16:06Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T03:21:23Z._
