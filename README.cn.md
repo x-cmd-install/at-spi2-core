@@ -42,16 +42,16 @@ x install at-spi2-core
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 11 |
-| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 15 |
-| last180d | 2026-05-06 | 0 | 0 | 0 | 0 | 0 | 46 |
-| 360d | 2025-11-07 | 0 | 0 | 0 | 0 | 0 | 100 |
-| last720d | 2024-11-12 | 0 | 0 | 0 | 0 | 0 | 306 |
+| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 11 |
+| 90d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 15 |
+| last180d | 2026-05-07 | 0 | 0 | 0 | 0 | 0 | 46 |
+| 360d | 2025-11-08 | 0 | 0 | 0 | 0 | 0 | 100 |
+| last720d | 2024-11-13 | 0 | 0 | 0 | 0 | 0 | 305 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/at-spi2-core) 上共有 **297** 个发行版报告此项目。**69** 个 ✅ 已是最新上游版本，**197** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/at-spi2-core) 上共有 **297** 个发行版报告此项目。**75** 个 ✅ 已是最新上游版本，**191** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -66,7 +66,7 @@ x install at-spi2-core
 | Nix unstable | `2.60.6` | ⚠️ outdated |
 | Void | `2.56.5` | ⚠️ outdated |
 | Alpine edge | `2.62.1` | ✅ latest |
-| openSUSE Tumbleweed | `2.60.7` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.62.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ at-spi2-core 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T04:23:41Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T05:19:40Z._
