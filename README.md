@@ -14,11 +14,11 @@ x install at-spi2-core
 
 ## Code insight
 
-Total: **51,879** lines of code across **324** files in the top 5 languages.
+Total: **51,880** lines of code across **324** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 40,790 | 12,014 | 7,722 | 144 |
+| C | 40,791 | 12,014 | 7,722 | 144 |
 | CHeader | 5,329 | 5,575 | 1,686 | 113 |
 | Xml | 1,507 | 2,991 | 277 | 34 |
 | ReStructuredText | 1,116 | 0 | 359 | 13 |
@@ -36,18 +36,18 @@ Total: **51,879** lines of code across **324** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6363
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6365
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 12 |
-| 90d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 17 |
-| last180d | 2026-05-13 | 0 | 0 | 0 | 0 | 0 | 44 |
-| 360d | 2025-11-14 | 0 | 0 | 0 | 0 | 0 | 99 |
-| last720d | 2024-11-19 | 0 | 0 | 0 | 0 | 0 | 305 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 8 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 14 |
+| 90d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 19 |
+| last180d | 2026-05-14 | 0 | 0 | 0 | 0 | 0 | 46 |
+| 360d | 2025-11-15 | 0 | 0 | 0 | 0 | 0 | 101 |
+| last720d | 2024-11-20 | 0 | 0 | 0 | 0 | 0 | 307 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for at-spi2-core lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T04:38:18Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T05:55:10Z._
