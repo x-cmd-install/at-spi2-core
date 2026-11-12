@@ -1,3 +1,87 @@
+- repo: amazon_2
+  srcname: at-spi2-core
+  visiblename: at-spi2-core
+  version: 2.22.0
+  origversion: 2.22.0-1.amzn2
+  status: outdated
+  summary: Protocol definitions and daemon for D-Bus at-spi
+  licenses:
+    - LGPLv2+
+  categories:
+    - Unspecified
+- repo: aosc
+  srcname: desktop-gnome/at-spi2-core
+  binname: at-spi2-core
+  visiblename: at-spi2-core
+  version: 2.58.2
+  origversion: 2.58.2-2
+  status: outdated
+  summary: Protocol definitions and daemon for D-Bus at-spi
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - gnome
+- repo: cygwin
+  srcname: at-spi2-core
+  binname: libatk-bridge2.0-devel
+  visiblename: libatk-bridge2.0-devel
+  version: 2.62.1
+  origversion: 2.62.1-1
+  status: newest
+  summary: AT-SPI/D-Bus registry service
+  maintainers:
+    - takashi.yano@cygwin
+  licenses:
+    - LGPL-2.1-or-later
+  categories:
+    - Libs
+- repo: cygwin
+  srcname: at-spi2-core
+  binname: libatk-bridge2.0_0
+  visiblename: libatk-bridge2.0_0
+  version: 2.62.1
+  origversion: 2.62.1-1
+  status: newest
+  summary: AT-SPI/D-Bus registry service
+  maintainers:
+    - takashi.yano@cygwin
+  licenses:
+    - LGPL-2.1-or-later
+  categories:
+    - Libs
+- repo: apertis_v2023
+  subrepo: v2023/target
+  srcname: at-spi2-core
+  binnames:
+    - at-spi2-core
+    - at-spi2-core-udeb
+    - libatspi2.0-0
+    - libatspi0-udeb
+    - libatspi2.0-dev
+    - gir1.2-atspi-2.0
+    - at-spi2-doc
+  visiblename: at-spi2-core
+  version: 2.38.0
+  origversion: 2.38.0-4+deb11u1+apertis1
+  status: outdated
+  maintainers:
+    - pkg-a11y-devel@alioth-lists.debian.net
+    - jordi@debian.org
+    - sthibault@debian.org
+- repo: cygwin
+  srcname: at-spi2-core
+  binname: libatk1.0-doc
+  visiblename: libatk1.0-doc
+  version: 2.62.1
+  origversion: 2.62.1-1
+  status: newest
+  summary: AT-SPI/D-Bus registry service
+  maintainers:
+    - takashi.yano@cygwin
+  licenses:
+    - LGPL-2.1-or-later
+  categories:
+    - Libs
 - repo: adelie_current
   subrepo: user
   srcname: at-spi2-core
@@ -420,32 +504,6 @@
 - repo: alpine_3_21
   subrepo: main
   srcname: at-spi2-core
-  binname: libatk-1.0
-  visiblename: libatk-1.0
-  version: 2.54.1
-  origversion: 2.54.1-r0
-  status: outdated
-  summary: ATK library accessibility interfaces (1.0)
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - LGPL-2.1-or-later
-- repo: alpine_3_21
-  subrepo: main
-  srcname: at-spi2-core
-  binname: libatk-bridge-2.0
-  visiblename: libatk-bridge-2.0
-  version: 2.54.1
-  origversion: 2.54.1-r0
-  status: outdated
-  summary: GTK+2.0 module that bridges ATK to D-Bus at-spi
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - LGPL-2.1-or-later
-- repo: alpine_3_21
-  subrepo: main
-  srcname: at-spi2-core
   binname: at-spi2-core
   visiblename: at-spi2-core
   version: 2.54.1
@@ -491,6 +549,32 @@
   origversion: 2.54.1-r0
   status: outdated
   summary: Languages for package at-spi2-core
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - LGPL-2.1-or-later
+- repo: alpine_3_21
+  subrepo: main
+  srcname: at-spi2-core
+  binname: libatk-1.0
+  visiblename: libatk-1.0
+  version: 2.54.1
+  origversion: 2.54.1-r0
+  status: outdated
+  summary: ATK library accessibility interfaces (1.0)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - LGPL-2.1-or-later
+- repo: alpine_3_21
+  subrepo: main
+  srcname: at-spi2-core
+  binname: libatk-bridge-2.0
+  visiblename: libatk-bridge-2.0
+  version: 2.54.1
+  origversion: 2.54.1-r0
+  status: outdated
+  summary: GTK+2.0 module that bridges ATK to D-Bus at-spi
   maintainers:
     - ncopa@alpinelinux.org
   licenses:
@@ -883,6 +967,17 @@
   summary: Protocol definitions and daemon for D-Bus at-spi (libraries)
   maintainers:
     - achill@achill.org
+  licenses:
+    - LGPL-2.1-or-later
+- repo: artix
+  subrepo: world
+  srcname: at-spi2-core
+  binname: at-spi2-core-docs
+  visiblename: at-spi2-core-docs
+  version: 2.62.1
+  origversion: 2.62.1-1
+  status: newest
+  summary: Protocol definitions and daemon for D-Bus at-spi (documentation)
   licenses:
     - LGPL-2.1-or-later
 - repo: alpine_edge
@@ -1023,29 +1118,6 @@
     - LGPLv2+
   categories:
     - Unspecified
-- repo: amazon_2
-  srcname: at-spi2-core
-  visiblename: at-spi2-core
-  version: 2.22.0
-  origversion: 2.22.0-1.amzn2
-  status: outdated
-  summary: Protocol definitions and daemon for D-Bus at-spi
-  licenses:
-    - LGPLv2+
-  categories:
-    - Unspecified
-- repo: aosc
-  srcname: desktop-gnome/at-spi2-core
-  binname: at-spi2-core
-  visiblename: at-spi2-core
-  version: 2.58.2
-  origversion: 2.58.2-2
-  status: outdated
-  summary: Protocol definitions and daemon for D-Bus at-spi
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - gnome
 - repo: aosc
   srcname: runtime-optenv32/at-spi2-core+32
   binname: at-spi2-core+32
@@ -1058,25 +1130,6 @@
     - fallback-mnt-aosc@repology
   categories:
     - gnome
-- repo: apertis_v2023
-  subrepo: v2023/target
-  srcname: at-spi2-core
-  binnames:
-    - at-spi2-core
-    - at-spi2-core-udeb
-    - libatspi2.0-0
-    - libatspi0-udeb
-    - libatspi2.0-dev
-    - gir1.2-atspi-2.0
-    - at-spi2-doc
-  visiblename: at-spi2-core
-  version: 2.38.0
-  origversion: 2.38.0-4+deb11u1+apertis1
-  status: outdated
-  maintainers:
-    - pkg-a11y-devel@alioth-lists.debian.net
-    - jordi@debian.org
-    - sthibault@debian.org
 - repo: apertis_v2024
   subrepo: v2024/target
   srcname: at-spi2-core
@@ -1107,29 +1160,6 @@
     - pkg-a11y-devel@alioth-lists.debian.net
     - jordi@debian.org
     - sthibault@debian.org
-- repo: centos_stream_10
-  subrepo: AppStream
-  srcname: at-spi2-core
-  binnames:
-    - at-spi2-core
-    - at-spi2-core-devel
-    - atk
-    - atk-devel
-    - at-spi2-atk
-    - at-spi2-atk-devel
-    - at-spi2-core-debuginfo
-    - at-spi2-core-debugsource
-  visiblename: at-spi2-core
-  version: 2.52.0
-  origversion: 2.52.0-3.el10
-  status: legacy
-  summary: Protocol definitions and daemon for D-Bus at-spi
-  maintainers:
-    - builder@centos.org
-  licenses:
-    - LGPL-2.1-or-later
-  categories:
-    - Unspecified
 - repo: apertis_v2025
   subrepo: v2025/target
   srcname: at-spi2-core
@@ -1162,36 +1192,6 @@
     - sthibault@debian.org
 - repo: apertis_v2026
   subrepo: v2026/target
-  srcname: at-spi2-core
-  binnames:
-    - at-spi2-core
-    - at-spi2-common
-    - at-spi2-core-udeb
-    - libatspi2.0-0t64
-    - libatspi0-udeb
-    - libatspi2.0-dev
-    - gir1.2-atspi-2.0
-    - at-spi2-doc
-    - libatk-adaptor
-    - libatk-adaptor-udeb
-    - libatk-bridge2.0-0t64
-    - libatk-bridge-2.0-0-udeb
-    - libatk-bridge2.0-dev
-    - libatk1.0-0t64
-    - libatk1.0-udeb
-    - libatk1.0-dev
-    - libatk1.0-doc
-    - gir1.2-atk-1.0
-  visiblename: at-spi2-core
-  version: 2.56.2
-  origversion: 2.56.2-1+deb13u2+apertis0
-  status: outdated
-  maintainers:
-    - pkg-a11y-devel@alioth-lists.debian.net
-    - jordi@debian.org
-    - sthibault@debian.org
-- repo: apertis_v2026
-  subrepo: v2026-updates/target
   srcname: at-spi2-core
   binnames:
     - at-spi2-core
@@ -1264,23 +1264,23 @@
 - repo: arch
   subrepo: extra
   srcname: at-spi2-core
-  binname: at-spi2-core
-  visiblename: at-spi2-core
-  version: 2.62.1
-  origversion: 2.62.1-1
-  status: newest
-  summary: Protocol definitions and daemon for D-Bus at-spi
-  licenses:
-    - LGPL-2.1-or-later
-- repo: arch
-  subrepo: extra
-  srcname: at-spi2-core
   binname: at-spi2-core-docs
   visiblename: at-spi2-core-docs
   version: 2.62.1
   origversion: 2.62.1-1
   status: newest
   summary: Protocol definitions and daemon for D-Bus at-spi (documentation)
+  licenses:
+    - LGPL-2.1-or-later
+- repo: arch
+  subrepo: extra
+  srcname: at-spi2-core
+  binname: at-spi2-core
+  visiblename: at-spi2-core
+  version: 2.62.1
+  origversion: 2.62.1-1
+  status: newest
+  summary: Protocol definitions and daemon for D-Bus at-spi
   licenses:
     - LGPL-2.1-or-later
 - repo: aur
@@ -1316,17 +1316,6 @@
   origversion: 2.62.1-1
   status: newest
   summary: Protocol definitions and daemon for D-Bus at-spi
-  licenses:
-    - LGPL-2.1-or-later
-- repo: artix
-  subrepo: world
-  srcname: at-spi2-core
-  binname: at-spi2-core-docs
-  visiblename: at-spi2-core-docs
-  version: 2.62.1
-  origversion: 2.62.1-1
-  status: newest
-  summary: Protocol definitions and daemon for D-Bus at-spi (documentation)
   licenses:
     - LGPL-2.1-or-later
 - repo: artix
@@ -1414,6 +1403,29 @@
   visiblename: at-spi2-core
   version: 2.52.0
   origversion: 2.52.0-2.el10
+  status: legacy
+  summary: Protocol definitions and daemon for D-Bus at-spi
+  maintainers:
+    - builder@centos.org
+  licenses:
+    - LGPL-2.1-or-later
+  categories:
+    - Unspecified
+- repo: centos_stream_10
+  subrepo: AppStream
+  srcname: at-spi2-core
+  binnames:
+    - at-spi2-core
+    - at-spi2-core-devel
+    - atk
+    - atk-devel
+    - at-spi2-atk
+    - at-spi2-atk-devel
+    - at-spi2-core-debuginfo
+    - at-spi2-core-debugsource
+  visiblename: at-spi2-core
+  version: 2.52.0
+  origversion: 2.52.0-3.el10
   status: legacy
   summary: Protocol definitions and daemon for D-Bus at-spi
   maintainers:
@@ -1633,50 +1645,8 @@
     - X11
 - repo: cygwin
   srcname: at-spi2-core
-  binname: libatk-bridge2.0-devel
-  visiblename: libatk-bridge2.0-devel
-  version: 2.62.1
-  origversion: 2.62.1-1
-  status: newest
-  summary: AT-SPI/D-Bus registry service
-  maintainers:
-    - takashi.yano@cygwin
-  licenses:
-    - LGPL-2.1-or-later
-  categories:
-    - Libs
-- repo: cygwin
-  srcname: at-spi2-core
-  binname: libatk-bridge2.0_0
-  visiblename: libatk-bridge2.0_0
-  version: 2.62.1
-  origversion: 2.62.1-1
-  status: newest
-  summary: AT-SPI/D-Bus registry service
-  maintainers:
-    - takashi.yano@cygwin
-  licenses:
-    - LGPL-2.1-or-later
-  categories:
-    - Libs
-- repo: cygwin
-  srcname: at-spi2-core
   binname: libatk1.0-devel
   visiblename: libatk1.0-devel
-  version: 2.62.1
-  origversion: 2.62.1-1
-  status: newest
-  summary: AT-SPI/D-Bus registry service
-  maintainers:
-    - takashi.yano@cygwin
-  licenses:
-    - LGPL-2.1-or-later
-  categories:
-    - Libs
-- repo: cygwin
-  srcname: at-spi2-core
-  binname: libatk1.0-doc
-  visiblename: libatk1.0-doc
   version: 2.62.1
   origversion: 2.62.1-1
   status: newest
@@ -1989,7 +1959,7 @@
   categories:
     - misc
 - repo: eurolinux_9
-  subrepo: appstream
+  subrepo: baseos
   srcname: at-spi2-core
   binnames:
     - at-spi2-core
@@ -2319,7 +2289,7 @@
   categories:
     - Unspecified
 - repo: eurolinux_9
-  subrepo: baseos
+  subrepo: appstream
   srcname: at-spi2-core
   binnames:
     - at-spi2-core
@@ -2533,25 +2503,6 @@
   status: outdated
   summary: Assistive Technology Service Provider Interface, core components
 - repo: fedora_44
-  subrepo: updates
-  srcname: at-spi2-core
-  binnames:
-    - at-spi2-core
-    - at-spi2-core-devel
-    - atk
-    - atk-devel
-    - at-spi2-atk
-    - at-spi2-atk-devel
-  visiblename: at-spi2-core
-  version: 2.60.7
-  origversion: 2.60.7-1.fc44
-  status: outdated
-  summary: Protocol definitions and daemon for D-Bus at-spi
-  licenses:
-    - LGPL-2.1-or-later
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: release
   srcname: at-spi2-core
   binnames:
@@ -2565,6 +2516,25 @@
   version: 2.60.0
   origversion: 2.60.0-1.fc44
   status: legacy
+  summary: Protocol definitions and daemon for D-Bus at-spi
+  licenses:
+    - LGPL-2.1-or-later
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: at-spi2-core
+  binnames:
+    - at-spi2-core
+    - at-spi2-core-devel
+    - atk
+    - atk-devel
+    - at-spi2-atk
+    - at-spi2-atk-devel
+  visiblename: at-spi2-core
+  version: 2.60.7
+  origversion: 2.60.7-1.fc44
+  status: outdated
   summary: Protocol definitions and daemon for D-Bus at-spi
   licenses:
     - LGPL-2.1-or-later
@@ -2909,23 +2879,23 @@
 - repo: manjaro_stable
   subrepo: extra
   srcname: at-spi2-core
-  binname: at-spi2-core-docs
-  visiblename: at-spi2-core-docs
-  version: 2.60.7
-  origversion: 2.60.7-1
-  status: outdated
-  summary: Protocol definitions and daemon for D-Bus at-spi (documentation)
-  licenses:
-    - LGPL-2.1-or-later
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: at-spi2-core
   binname: at-spi2-core
   visiblename: at-spi2-core
   version: 2.60.7
   origversion: 2.60.7-1
   status: outdated
   summary: Protocol definitions and daemon for D-Bus at-spi
+  licenses:
+    - LGPL-2.1-or-later
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: at-spi2-core
+  binname: at-spi2-core-docs
+  visiblename: at-spi2-core-docs
+  version: 2.60.7
+  origversion: 2.60.7-1
+  status: outdated
+  summary: Protocol definitions and daemon for D-Bus at-spi (documentation)
   licenses:
     - LGPL-2.1-or-later
 - repo: manjaro_stable
@@ -2940,14 +2910,14 @@
   licenses:
     - LGPL-2.1-or-later
 - repo: manjaro_testing
-  subrepo: extra
-  srcname: at-spi2-core
-  binname: at-spi2-core-docs
-  visiblename: at-spi2-core-docs
+  subrepo: multilib
+  srcname: lib32-at-spi2-core
+  binname: lib32-at-spi2-core
+  visiblename: lib32-at-spi2-core
   version: 2.62.1
   origversion: 2.62.1-1
   status: newest
-  summary: Protocol definitions and daemon for D-Bus at-spi (documentation)
+  summary: Protocol definitions and daemon for D-Bus at-spi (32-bit)
   licenses:
     - LGPL-2.1-or-later
 - repo: manjaro_testing
@@ -2962,14 +2932,14 @@
   licenses:
     - LGPL-2.1-or-later
 - repo: manjaro_testing
-  subrepo: multilib
-  srcname: lib32-at-spi2-core
-  binname: lib32-at-spi2-core
-  visiblename: lib32-at-spi2-core
+  subrepo: extra
+  srcname: at-spi2-core
+  binname: at-spi2-core-docs
+  visiblename: at-spi2-core-docs
   version: 2.62.1
   origversion: 2.62.1-1
   status: newest
-  summary: Protocol definitions and daemon for D-Bus at-spi (32-bit)
+  summary: Protocol definitions and daemon for D-Bus at-spi (documentation)
   licenses:
     - LGPL-2.1-or-later
 - repo: manjaro_unstable
@@ -3161,7 +3131,7 @@
 - repo: nix_unstable
   srcname: at-spi2-atk
   visiblename: at-spi2-core
-  version: 2.60.6
+  version: 2.62.0
   origversion: null
   status: outdated
   summary: Assistive Technology Service Provider Interface protocol definitions and daemon for D-Bus
@@ -3176,7 +3146,7 @@
 - repo: nix_unstable
   srcname: at-spi2-core
   visiblename: at-spi2-core
-  version: 2.60.6
+  version: 2.62.0
   origversion: null
   status: outdated
   summary: Assistive Technology Service Provider Interface protocol definitions and daemon for D-Bus
@@ -3191,7 +3161,7 @@
 - repo: nix_unstable
   srcname: atk
   visiblename: at-spi2-core
-  version: 2.60.6
+  version: 2.62.0
   origversion: null
   status: outdated
   summary: Assistive Technology Service Provider Interface protocol definitions and daemon for D-Bus
@@ -3840,7 +3810,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: at-spi2-core
   binnames:
     - at-spi2-core
@@ -3872,7 +3842,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: at-spi2-core
   binnames:
     - at-spi2-core
