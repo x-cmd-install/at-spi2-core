@@ -14,13 +14,13 @@ x install at-spi2-core
 
 ## Code insight
 
-Total: **51,880** lines of code across **324** files in the top 5 languages.
+Total: **51,892** lines of code across **324** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 40,791 | 12,014 | 7,722 | 144 |
+| C | 40,802 | 12,016 | 7,722 | 144 |
 | CHeader | 5,329 | 5,575 | 1,686 | 113 |
-| Xml | 1,507 | 2,991 | 277 | 34 |
+| Xml | 1,508 | 2,993 | 277 | 34 |
 | ReStructuredText | 1,116 | 0 | 359 | 13 |
 | Meson | 1,087 | 35 | 155 | 20 |
 
@@ -32,33 +32,33 @@ Total: **51,880** lines of code across **324** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31 · **Forks**: 18 · **Open issues**: 0 · **Contributors**: 291
+- **Stars**: 31 · **Forks**: 18 · **Open issues**: 0 · **Contributors**: 293
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6365
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6368
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-19 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-19 | 0 | 0 | 0 | 0 | 0 | 11 |
-| 90d | 2026-08-20 | 0 | 0 | 0 | 0 | 0 | 18 |
-| last180d | 2026-05-22 | 0 | 0 | 0 | 0 | 0 | 42 |
-| 360d | 2025-11-23 | 0 | 0 | 0 | 0 | 0 | 99 |
-| last720d | 2024-11-28 | 0 | 0 | 0 | 0 | 0 | 302 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 7 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 14 |
+| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 21 |
+| last180d | 2026-05-23 | 0 | 0 | 0 | 0 | 0 | 45 |
+| 360d | 2025-11-24 | 0 | 0 | 0 | 0 | 0 | 102 |
+| last720d | 2024-11-29 | 0 | 0 | 0 | 0 | 0 | 305 |
 
 ## Distribution status
 
-Reported by **299** distros on [repology.org](https://repology.org/project/at-spi2-core). **87** are ✅ on the latest upstream release, **180** are ⚠️ on an older version.
+Reported by **298** distros on [repology.org](https://repology.org/project/at-spi2-core). **87** are ✅ on the latest upstream release, **179** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `2.56.2` | 🪦 legacy |
 | Debian 14 | `2.56.2` | 🪦 legacy |
 | Debian 13 | `2.56.2` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.60.4` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.60.0` | 🪦 legacy |
 | Ubuntu 24.04 LTS | `2.52.0` | ⚠️ outdated |
 | Arch | `2.62.1` | ✅ latest |
 | Homebrew | `2.62.1` | ✅ latest |
@@ -77,4 +77,4 @@ Install metadata for at-spi2-core lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261118.yml` · 2026-11-18T05:54:21Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T05:53:21Z._
