@@ -32,41 +32,41 @@ x install at-spi2-core
 
 ## 流行度
 
-- **Star**: 31 · **Fork**: 18 · **开放 issue**: 0 · **贡献者**: 293
+- **Star**: 32 · **Fork**: 18 · **开放 issue**: 0 · **贡献者**: 293
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6368
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6369
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 7 |
-| last60d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 14 |
-| 90d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 21 |
-| last180d | 2026-05-25 | 0 | 0 | 0 | 0 | 0 | 45 |
-| 360d | 2025-11-26 | 0 | 0 | 0 | 0 | 0 | 102 |
-| last720d | 2024-12-01 | 0 | 0 | 0 | 0 | 0 | 305 |
+| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-03 | 0 | 0 | 0 | 0 | 0 | 306 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/at-spi2-core) 上共有 **297** 个发行版报告此项目。**87** 个 ✅ 已是最新上游版本，**178** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/at-spi2-core) 上共有 **300** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**252** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Debian unstable | `2.56.2` | 🪦 legacy |
-| Debian 14 | `2.56.2` | 🪦 legacy |
+| Debian 14 | `2.62.1` | ⚠️ outdated |
 | Debian 13 | `2.56.2` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.60.4` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.52.0` | ⚠️ outdated |
-| Arch | `2.62.1` | ✅ latest |
-| Homebrew | `2.62.1` | ✅ latest |
-| Fedora rawhide | `2.62.1` | ✅ latest |
+| Arch | `2.62.2` | ✅ latest |
+| Homebrew | `2.62.2` | ✅ latest |
+| Fedora rawhide | `2.62.1` | ⚠️ outdated |
 | Nix unstable | `2.62.0` | ⚠️ outdated |
 | Void | `2.56.5` | ⚠️ outdated |
-| Alpine edge | `2.62.1` | ✅ latest |
-| openSUSE Tumbleweed | `2.62.1` | ✅ latest |
+| Alpine edge | `2.62.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.62.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ at-spi2-core 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T05:36:58Z._
+_数据快照: `data/card/261123.yml` · 2026-11-23T05:44:36Z._
